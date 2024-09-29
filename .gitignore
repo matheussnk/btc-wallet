@@ -1,0 +1,30 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de build
+/build/
+/dist/
+/out/
+
+# Dependências
+/node_modules/
+/vendor/
+
+# Arquivos de configuração do IDE
+*.idea/
+*.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Ambiente
+.env
+
+# Outros arquivos comuns
+*.swp
+*.swo

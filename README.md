@@ -3,7 +3,7 @@ Creating and Using a Cryptocurrency Wallet
 </h1>
 
 
-Repository documenting a **blockchain** project challenge: building a bitcoin wallet generator, importing it into specific software and executing bitcoin send and receive transactions. 
+Repository documenting a **Binance - Blockchain Developer with Solidity** project challenge: building a bitcoin wallet generator, importing it into specific software and executing bitcoin send and receive transactions. 
 
    
 ## Objectives 
